@@ -1,2 +1,11 @@
 # occrp-aleph-analysis
-analysis of datasets available through Aleph OCCRP. primarily in Python with an emphasis on networks
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
+Analysis of datasets available through OCCRP Aleph using Python. Primarily using NLP and network tools.
+
+## datasets
+
+- Swedish Aircraft Registry
+  - reverse geocoding locations
+  - display on map
