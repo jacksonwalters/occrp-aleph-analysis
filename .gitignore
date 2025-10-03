@@ -11,6 +11,7 @@ aircraft_folium_map.html
 # romania wanted by police
 Search_collection_id_9327_schema_Address.xlsx
 Search_collection_id_9327_schema_Person.xlsx
+merged_geocoded.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
