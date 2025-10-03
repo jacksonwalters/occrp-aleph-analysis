@@ -1,6 +1,8 @@
 google_api_key.txt
 swedish_aircraft_geocoded_google.csv
 swedish_aircraft_geocoded_test.csv
+swedish_aircraft_geocoded_google_num_samples=20.csv
+swedish_aircraft_geocoded_google_full.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
