@@ -7,5 +7,5 @@ Analysis of datasets available through OCCRP Aleph using Python. Primarily using
 ## datasets
 
 - Swedish Aircraft Registry
-  - reverse geocoding locations
-  - display on map
+  - reverse geocoding locations [done]
+  - display on map [done]
