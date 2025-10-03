@@ -14,6 +14,11 @@ Search_collection_id_9327_schema_Person.xlsx
 merged_geocoded.csv
 romania_people_wanted_map.html
 
+# greece media ownership
+Search_collection_id_10800_schema_LegalEntity.xlsx
+Greece_MediaOwnership_geocoded.csv
+Greece_MediaOwnership_map.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
