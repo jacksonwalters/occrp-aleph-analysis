@@ -1,10 +1,16 @@
 google_api_key.txt
+
+#swedish aircraft registry
 swedish_aircraft_geocoded_google.csv
 swedish_aircraft_geocoded_test.csv
 swedish_aircraft_geocoded_google_num_samples=20.csv
 swedish_aircraft_geocoded_google_full.csv
 aircraft_entities_map.html
 aircraft_folium_map.html
+
+# romania wanted by police
+Search_collection_id_9327_schema_Address.xlsx
+Search_collection_id_9327_schema_Person.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
