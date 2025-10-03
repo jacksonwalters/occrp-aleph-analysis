@@ -19,6 +19,12 @@ Search_collection_id_10800_schema_LegalEntity.xlsx
 Greece_MediaOwnership_geocoded.csv
 Greece_MediaOwnership_map.html
 
+#uk lords financial interests
+Search_collection_id_9284_schema_Company.xlsx
+Search_collection_id_9284_schema_Event.xlsx
+Search_collection_id_9284_schema_Person.xlsx
+Search_collection_id_9284_schema_RealEstate.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
