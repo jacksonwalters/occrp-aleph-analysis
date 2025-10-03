@@ -7,10 +7,17 @@ Analysis of datasets available through [OCCRP Aleph](https://aleph.occrp.org/). 
 ## datasets
 
 - Swedish Aircraft Registry
-  - reverse geocode locations [done]
+  - geocode locations [done]
   - display on map [done]
 
 - Romania — People wanted by the police
   - merge persons and address dataframe [done]
-  - reverse geocode locations [done]
+  - geocode locations [done]
   - display on map [done]
+
+- Greece Media Ownership
+  - geocode locations [done]
+  - display on map [done]
+ 
+- UK Lords Financial Interests Official Data
+  - parallel datasets, i.e. not able to merge
