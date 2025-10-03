@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-Analysis of datasets available through OCCRP Aleph using Python. Primarily using NLP and network tools.
+Analysis of datasets available through [OCCRP Aleph](https://aleph.occrp.org/) using Python.
+
+Primarily using NLP and network tools.
 
 ## datasets
 
