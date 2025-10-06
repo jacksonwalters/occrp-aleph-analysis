@@ -34,7 +34,7 @@ Identify the foreign ID of the dataset in Aleph (visibile in the bottom right ha
 Finally, run the command to download datasets to the specified directory:
 
 ```
-alephclient fetchdir --foreign-id se_aircraft_reg --prefix ~/Downloads
+alephclient fetchdir --foreign-id <some-foreign-id> --prefix ~/Downloads
 ```
 
 ## datasets
